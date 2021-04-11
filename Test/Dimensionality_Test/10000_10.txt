@@ -1,0 +1,2 @@
+10000 vectors of dimension 10
+Used time:2237421 milliseconds. 

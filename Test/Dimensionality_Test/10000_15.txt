@@ -1,0 +1,2 @@
+10000 vectors of dimension 15
+Used time:2581698 milliseconds. 
